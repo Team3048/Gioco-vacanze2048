@@ -13,5 +13,6 @@ L’azione si svolge all’interno di una griglia di sedici caselle, all’inter
 
 Il giocatore deve sommare tra loro i tasselli che riportano lo stesso numero, in modo da ottenere cifre sempre più alte e raggiungere la fatale somma di 2048 prima di aver esaurito lo spazio e le mosse.
 
+NOTA IMPORTANTE:
 
-
+Abbiamo riscontrato dei problemi con l'utilizzo di pygame, in quanto VS Code ci dava un errore, abbiamo tentato di creare un gioco con Tkinter.
