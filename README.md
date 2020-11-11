@@ -15,4 +15,4 @@ Il giocatore deve sommare tra loro i tasselli che riportano lo stesso numero, in
 
 NOTA IMPORTANTE:
 
-Abbiamo riscontrato dei problemi con l'utilizzo di pygame, in quanto VS Code ci dava un errore, abbiamo tentato di creare un gioco con Tkinter.
+Abbiamo riscontrato dei problemi con l'utilizzo di pygame, in quanto VS Code ci dava un errore, abbiamo tentato perciò di creare un gioco con Tkinter.
