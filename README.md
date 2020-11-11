@@ -9,4 +9,9 @@ Per fare funzionare il gioco è necessario fare il download dei colori perchè s
 
 Il gioco funziona con le freccine in basso nella tastiera e fanno determinati movimenti: destra, sinistra, sopra e sotto
 
-L'obiettivo del gioco è quello di arrivare alla cifra 2048 sommando i multipli di 2
+L’azione si svolge all’interno di una griglia di sedici caselle, all’interno della quale appaiono dei tasselli col numero 2 o col numero 4. 
+
+Il giocatore deve sommare tra loro i tasselli che riportano lo stesso numero, in modo da ottenere cifre sempre più alte e raggiungere la fatale somma di 2048 prima di aver esaurito lo spazio e le mosse.
+
+
+
