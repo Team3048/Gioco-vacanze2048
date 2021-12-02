@@ -1,4 +1,4 @@
-# Gioco-vacanze2048
+# Gioco-vacanzecoucou
 Gioco realizzato da:
 
 - Lorenzo Carbonara
